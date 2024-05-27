@@ -10,6 +10,7 @@ Send a report about everything to your Telegram bot
   Use an Android emulator.
   Configure all the coordinates for yourself.
   Add the following to the script:
-      **TELEGRAM_BOT_TOKEN
+```
+      TELEGRAM_BOT_TOKEN
       CHAT_ID**
 ```
