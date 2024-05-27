@@ -1,4 +1,12 @@
 # HumsterKombatAutoReward
-This script allows you to collect Hamster Kombat rewards from different telegram accounts. 
-Every 3 hours the script will log into each account and send a report about everything to your telegram bot. 
-For everything to work, you need to use an Android emulator, configure all the coordinates for yourself, and also add TELEGRAM_BOT_TOKEN and CHAT_ID to the script.
+*This script allows you to collect Hamster Kombat rewards from different Telegram accounts.*
+***Every 3 hours, the script will:***
+  Log into each account
+  Send a report about everything to your Telegram bot
+
+**To ensure everything works, follow these steps:**
+  Use an Android emulator.
+  Configure all the coordinates for yourself.
+  Add the following to the script:
+      **TELEGRAM_BOT_TOKEN
+      CHAT_ID**
