@@ -118,7 +118,7 @@ def schedule_job():
 
 
 # Schedule the job to run every 3 hours
-schedule.every(10).seconds.do(schedule_job)
+schedule.every(3).hours.do(schedule_job)
 print("Scheduled clicks every 3 hours")
 
 # Run the scheduled jobs
